@@ -79,6 +79,6 @@
 		<finalName>MVCListProducts-AbstractControlerUseCase6</finalName>
 	</build>
 	<properties>
-		<spring.ver>5.1.6.RELEASE</spring.ver>
+		<spring.ver>5.2.20.RELEASE</spring.ver>
 	</properties>
 </project>
